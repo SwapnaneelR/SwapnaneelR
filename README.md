@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SwapnaneelR
+- 👋 Hi, I’m Swapnaneel Ray
+- 🚀 Information Technology , Jadavpur University 
 - 👀 I’m interested in Website Development
 - 🌱 I’m currently learning web development and dsa
 - 📫 How to reach me: Take a cab/bus or visit my linkedin (https://www.linkedin.com/in/swapnaneel-ray-33a110169/)
