@@ -8,22 +8,12 @@ Most of my time goes into website development. I enjoy the whole process – fro
 
 ## Tecnologies I think I know 
 
-**Frontend**
-- React.js
-- Next.js
-
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Languages I Use**
-- JavaScript
-- C++
-- C
-- SQL
+| Category  | Tools & Frameworks          |
+|------------|-----------------------------|
+| Frontend   | React.js, Next.js           |
+| Backend    | Node.js, Express.js         |
+| Database   | MongoDB                     |
+| Languages  | JavaScript, C++, C, SQL     |
 
 ## Get In Touch
 I'm always open to collaborating on interesting projects or discussing web development. Feel free to reach out through GitHub or check out my repositories to see what I'm currently working on.
